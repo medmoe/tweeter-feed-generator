@@ -1,0 +1,15 @@
+# Ignore compiled python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore local development settings
+*.env
+
+# Ignore log files
+logs/
+
+# Ignore editor-specific files
+.idea/
+
